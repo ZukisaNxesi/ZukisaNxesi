@@ -147,6 +147,6 @@
 
 **📍 Midrand, South Africa &nbsp;|&nbsp; 📞 071 664 4892 &nbsp;|&nbsp; ✉️ zukisanxesi4@gmail.com**
 
-*© 2026 Zukisa Nxesi — Built with ❤️ and deployed on GitHub Pages*
+
 
 </div>
