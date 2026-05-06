@@ -148,7 +148,7 @@
 
 <div align="center">
 
-**📍 Midrand, South Africa &nbsp;|&nbsp; 📞 071 664 4892 &nbsp;|&nbsp; ✉️ zukisanxesi4@gmail.com**
+**📍 South Africa &nbsp;|&nbsp; 📞 071 664 4892 &nbsp;|&nbsp; ✉️ zukisanxesi4@gmail.com**
 
 
 
