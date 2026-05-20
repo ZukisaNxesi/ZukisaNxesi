@@ -12,23 +12,13 @@
 
 ## 💫 About Me
 
-- 🔬 Currently studying: **AI, NLP, Data Mining & Software Engineering**
-- 🌍 Based in **Midrand, South Africa**
-- 💼 Looking for: **Internship / Graduate Programme / Entry-level IT role**
+💡 Open to collaborating on web development projects🚀
 - 📄 **[View My Portfolio](https://zukisanxesi.github.io/)**
 
 ---
 
 ## 🌐 Connect with Me
-## 💫 About Me
 
-<div>
-
-💡 Open to collaborating on web development🚀
-
-</div>
-
-📄 **Portfolio:** [zukisanxesi.github.io](https://zukisanxesi.github.io/)
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zukisa-nxesi-0896852b6/)
@@ -133,4 +123,3 @@
 </div>
 
 ---
-
