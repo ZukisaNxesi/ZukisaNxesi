@@ -126,8 +126,3 @@
 
 ---
 
-<div align="center">
-
-**📍 South Africa &nbsp;|&nbsp; ✉️ zukisanxesi4@gmail.com**
-
-</div>
