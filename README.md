@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Zukisa Nxesi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=BSc+IT+Graduate+%F0%9F%8E%93;Honours+CS+%40+University+of+Pretoria;Aspiring+Software+Developer;AI+%26+NLP+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E75B6&center=true&vCenter=true&width=600&lines=BSc+IT+Graduate+%F0%9F%8E%93;Honours+CS;Aspiring+Software+Developer;AI+%26+NLP+Enthusiast;Data+Analyst;IT+Audit)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=ZukisaNxesi&label=Profile%20Views&color=2E75B6&style=flat" alt="profile views" />
 
