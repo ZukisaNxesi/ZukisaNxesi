@@ -20,7 +20,15 @@
 ---
 
 ## 🌐 Connect with Me
+## 💫 About Me
 
+<div>
+
+💡 Open to collaborating on web development🚀
+
+</div>
+
+📄 **Portfolio:** [zukisanxesi.github.io](https://zukisanxesi.github.io/)
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zukisa-nxesi-0896852b6/)
