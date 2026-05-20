@@ -10,7 +10,7 @@
 
 ---
 
-## 💫 About Me
+## 💫 LETS WORK
 
 💡 Open to collaborating on web development projects🚀
 - 📄 **[View My Portfolio](https://zukisanxesi.github.io/)**
